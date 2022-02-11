@@ -3,12 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwini</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodashwini990&label=Profile%20views&color=0e75b6&style=flat" alt="rathodashwini990" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rathodashwini990" alt="rathodashwini990" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ashwini36515066" target="blank"><img src="https://img.shields.io/twitter/follow/ashwini36515066?logo=twitter&style=for-the-badge" alt="ashwini36515066" /></a> </p>
-
 - 🔭 I’m currently working on [Lybrate_Clone](https://selva658.github.io/Lybrate_Clone_Project/)
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, MongoDB, ExpressjS, React, NodeJS**
@@ -17,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Full-Stack Web Developers**
 
-- 📝 I regularly write articles on [https://medium.com/@rathodashwini990/](https://medium.com/@rathodashwini990/we-created-a-lybrate-com-clone-in-6-days-913dfd79d57)
+- 📝 I regularly write articles on [Blog](https://medium.com/@rathodashwini990/we-created-a-lybrate-com-clone-in-6-days-913dfd79d57)
 
 - 💬 Ask me about **Collaborative Projects**
 
@@ -26,6 +20,12 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oexERg5dawEwY79KtMMkwpbsyyZ04XP_/view?usp=sharing)
 
 - ⚡ Fun fact **I'm passionate about Coding and I like to Debugging Codes**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodashwini990&label=Profile%20views&color=0e75b6&style=flat" alt="rathodashwini990" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rathodashwini990" alt="rathodashwini990" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ashwini36515066" target="blank"><img src="https://img.shields.io/twitter/follow/ashwini36515066?logo=twitter&style=for-the-badge" alt="ashwini36515066" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
