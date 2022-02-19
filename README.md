@@ -1,14 +1,12 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fd3903b41d20bd2244ec3fd_programminglanguagesstickers.jpg" height="50px"/></a> -->
-# Hi, I'm Ashwini Rathod <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">👩‍💻
-
+<!-- # Hi, I'm Ashwini Rathod <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">👩‍💻 -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="gif">👩‍💻, I'm Ashwini Rathod💻</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 <!--<img src="https://static.wikia.nocookie.net/disney/images/7/7d/Profile_-_Moana.png/revision/latest?cb=20190312030033" width="500" height="500" alt="img">-->
 
 I am an enthusiastic, ambitious developer, eager to contribute to make open source more accessible. Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters.Apart from programming, I enjoy dancing and love travelling.
 
 <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwini Rathod</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 - 🔭 I’m currently working on [Lybrate_Clone](https://selva658.github.io/Lybrate_Clone_Project/)
 
