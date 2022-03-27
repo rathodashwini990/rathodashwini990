@@ -22,7 +22,7 @@ I am an enthusiastic, ambitious developer, eager to contribute to make open sour
 
 - 📫 How to reach me **rathodashwini990@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oexERg5dawEwY79KtMMkwpbsyyZ04XP_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U5eK_iLuw8iGRdzdl3CDtbU15eBSRJG4/view?usp=sharing)
 
 - ⚡ Fun fact **I'm passionate about Coding and I like to Debugging Codes**
 
