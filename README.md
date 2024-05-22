@@ -4,13 +4,13 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 <!--<img src="https://static.wikia.nocookie.net/disney/images/7/7d/Profile_-_Moana.png/revision/latest?cb=20190312030033" width="500" height="500" alt="img">-->
 
-I am an enthusiastic, ambitious developer, eager to contribute to making open source more accessible. Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters. Apart from programming, I enjoy dancing and love traveling.
+Experienced Full Stack Web Developer with 2 years specializing in React.js and frontend development. Skilled in crafting responsive, user-friendly interfaces and implementing interactive features. Dedicated to continuous learning and staying updated on the latest technologies. Passionate about leveraging expertise to contribute to innovative projects and drive organizational success.
 
 <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
 
 - 🔭 I’m currently working at [Hubler](https://www.hubbler.app/)
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, MongoDB, ExpressjS, React, NodeJS**
+- 🌱 I have expertise in **HTML, CSS, Javascript, MongoDB, ExpressjS, React, NodeJS**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
@@ -22,7 +22,7 @@ I am an enthusiastic, ambitious developer, eager to contribute to making open so
 
 - 📫 How to reach me **rathodashwini990@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U5eK_iLuw8iGRdzdl3CDtbU15eBSRJG4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RPl-gT59kmtTLmTGOiXlCHsgmyFZjUU6/view?usp=sharing)
 
 - ⚡ Fun fact **I'm passionate about Coding and I like to Debugging Codes**
 
