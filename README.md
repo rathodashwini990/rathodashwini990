@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 <p align="center">
-  <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
+  <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img">
 </p>
 
 <p>
@@ -112,8 +112,29 @@
   </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://bootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://ant.design" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="ant design" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind css" width="40" height="40"/> 
+  </a>
+  <a href="https://mui.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material ui" width="40" height="40"/> 
+  </a>
 </p>
+
+<h3 align="left">Proficient in:</h3>
+<ul>
+  <li>ReactJS, HTML, CSS, JavaScript, MongoDB, Express JS, Node JS, and Redux for state management</li>
+  <li>Version control systems like GitHub and project management tools like JIRA</li>
+  <li>Frontend frameworks/libraries such as Bootstrap, SCSS, Ant Design, and Tailwind CSS</li>
+  <li>Design patterns and UI libraries including Material UI</li>
+  <li>Familiarity with JSON for data interchange</li>
+</ul>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rathodashwini990&show_icons=true&locale=en&layout=compact" alt="rathodashwini990" />
