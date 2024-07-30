@@ -119,9 +119,6 @@
   <a href="https://ant.design" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="ant design" width="40" height="40"/> 
   </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind css" width="40" height="40"/> 
-  </a>
   <a href="https://mui.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material ui" width="40" height="40"/> 
   </a>
