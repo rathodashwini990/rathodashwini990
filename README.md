@@ -18,7 +18,7 @@
 - 📝 I regularly write articles on [Blog](https://medium.com/@rathodashwini990/we-created-a-lybrate-com-clone-in-6-days-913dfd79d57)
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **rathodashwini990@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M_p2Y_lFii90H-IQoPi5CwmM_oMtrjOF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BpSfCUeR9OKqG8sdLIBedccbZCHYjwYN/view?usp=sharing)
 - ⚡ Fun fact **I'm passionate about Coding and I like to Debugging Codes**
 
 <p align="left"> 
