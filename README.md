@@ -1,25 +1,25 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="gif">, I'm Ashwini Rathod👩‍💻
 </h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Frontend Developer from India.</h3>
 
 <p align="center">
   <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img">
 </p>
 
 <p>
-  Experienced Full Stack Web Developer with 2 years specializing in React.js and frontend development. Skilled in crafting responsive, user-friendly interfaces and implementing interactive features. Dedicated to continuous learning and staying updated on the latest technologies. Passionate about leveraging expertise to contribute to innovative projects and drive organizational success.
+  Experienced Full Stack Web Developer with 3.5 years of experience specializing in React.js and frontend development. Skilled in crafting responsive, user-friendly interfaces and implementing interactive features. Dedicated to continuous learning and staying updated on the latest technologies. Passionate about leveraging expertise to contribute to innovative projects and drive organizational success.
 </p>
 
-- 🔭 I’m currently working at [Hubler](https://www.hubbler.app/)
-- 🌱 I have expertise in **HTML, CSS, JavaScript, MongoDB, Express.js, React, Node.js**
+- 🔭 I’m currently looking for a job in Frontend Development(React.js).
+- 🌱 I have expertise in **HTML, CSS, JavaScript, MongoDB, Express.js, React, Node.js, Redux, Next.js, TypeScript**
 - 👯 I’m looking to collaborate on **Web Development Projects**
 - 🤝 I’m looking for help with **Full-Stack Web Development**
 - 📝 I regularly write articles on [Blog](https://medium.com/@rathodashwini990/we-created-a-lybrate-com-clone-in-6-days-913dfd79d57)
 - 💬 Ask me about **MERN**
-- 📫 How to reach me **rathodashwini990@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BpSfCUeR9OKqG8sdLIBedccbZCHYjwYN/view?usp=sharing)
-- ⚡ Fun fact **I'm passionate about Coding and I like to Debugging Codes**
+- 📫 How to reach me **rathodashwini1596@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UVSjPVoanIwWq1SVnKPlqxs4PAqE5kJ8/view?usp=sharing)
+- ⚡ Fun fact **I'm passionate about Coding and I like to debug code**
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rathodashwini990&label=Profile%20views&color=0e75b6&style=flat" alt="rathodashwini990" />
@@ -126,7 +126,7 @@
 
 <h3 align="left">Proficient in:</h3>
 <ul>
-  <li>ReactJS, HTML, CSS, JavaScript, MongoDB, Express JS, Node JS, and Redux for state management</li>
+  <li>ReactJS, Next.js, HTML, CSS, JavaScript, TypeScript, MongoDB, Express JS, Node JS, and Redux for state management</li>
   <li>Version control systems like GitHub and project management tools like JIRA</li>
   <li>Frontend frameworks/libraries such as Bootstrap, SCSS, Ant Design, and Tailwind CSS</li>
   <li>Design patterns and UI libraries including Material UI</li>
