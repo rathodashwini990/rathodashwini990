@@ -57,7 +57,7 @@ Hands-on experience in <b>Agile collaboration, CI/CD automation, and mentoring</
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ashwini-rathod-741b72374" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/ashwini-rathod-741b72374/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
   <a href="https://twitter.com/ashwini36515066" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40"/></a>
   <a href="https://medium.com/@rathodashwini990" target="blank"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="40"/></a>
   <a href="https://www.hackerrank.com/rathodashwini990" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40"/></a>
